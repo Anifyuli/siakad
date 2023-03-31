@@ -1,0 +1,6 @@
+Membuat UI/UX
+Database
+Front-End
+Back-End
+  -Express-js
+  -React-js
