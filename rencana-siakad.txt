@@ -1,0 +1,4 @@
+1. figma : kamal 
+2. erd dan dfd : ayu dan misha , feby 
+3. backend pengembangan node js, expresss ?  = anif
+4. frontend react : yusuf 
